@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hemanth Karanki
-<img href="https://github.com/karankihemanth/karankihemanth/blob/main/ChatGPT%20Image%20Jul%202%2C%202026%2C%2003_26_21%20PM.png">
+<img src="https://github.com/karankihemanth/karankihemanth/blob/main/ChatGPT%20Image%20Jul%202%2C%202026%2C%2003_26_21%20PM.png">
 ## Security Analyst • Backend Developer • Vulnerability Researcher
 
 I specialize in:
