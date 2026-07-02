@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hemanth Karanki
-![Uploading ChatGPT Image Jul 2, 2026, 03_26_21 PM.png…]()
+<img href="https://github.com/karankihemanth/karankihemanth/blob/main/ChatGPT%20Image%20Jul%202%2C%202026%2C%2003_26_21%20PM.png">
 ## Security Analyst • Backend Developer • Vulnerability Researcher
 
 I specialize in:
