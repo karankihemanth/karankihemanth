@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hemanth Karanki
-
+<img>![Uploading ChatGPT Image Jul 2, 2026, 03_26_21 PM.png…]()
 ## Security Analyst • Backend Developer • Vulnerability Researcher
 
 I specialize in:
